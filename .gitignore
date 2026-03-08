@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+api/artifacts/*.joblib
+api/artifacts/*.pkl
+node_modules/
+.next/
+.env.local
+.DS_Store
